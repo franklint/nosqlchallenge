@@ -1,6 +1,10 @@
 # nosqlchallenge
 
+Video 1 for User and Friend Testing Showcase 
 https://drive.google.com/file/d/1pogFz7Np2oFVOJdRPE3VfaSyBRP86Flc/view
+
+Video 2 for Thought Testing Showcase 
+https://drive.google.com/file/d/1mjEoaD_a7pFHsinIpEDY-kFJK3u0uj_a/view
 
 User Story
 
